@@ -1,0 +1,4233 @@
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'SpellEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'QuestEditorInit' in 'modQuests'.
+Run-time error '6': Overflow.
+
+The following error occured at 'QuestEditorInit' in 'modQuests'.
+Run-time error '6': Overflow.
+
+The following error occured at 'QuestEditorInit' in 'modQuests'.
+Run-time error '6': Overflow.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '6': Overflow.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'NpcEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'ItemEditorInit' in 'modGameEditors'.
+Run-time error '340': Control array element '6' doesn't exist.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'ProcessNpcMovement' in 'modGameLogic'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'ProcessNpcMovement' in 'modGameLogic'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'ProcessNpcMovement' in 'modGameLogic'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'ProcessNpcMovement' in 'modGameLogic'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleData' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleData' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'ResourceEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleUpdateSkill' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleUpdateSkill' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleUpdateSkill' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleUpdateSkill' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleUpdateSkill' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleUpdateSkill' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '91': Object variable or With block variable not set.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '91': Object variable or With block variable not set.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '91': Object variable or With block variable not set.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '91': Object variable or With block variable not set.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleComboEditor' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleComboEditor' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleComboEditor' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleComboEditor' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleComboEditor' in 'modHandleData'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleItemEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleAnimationEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleNpcEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleShopEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleShopEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleShopEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleShopEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleShopEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleShopEditor' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'GameInit' in 'modGeneral'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleData' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleData' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleData' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandleData' in 'modHandleData'.
+Run-time error '401': No se puede mostrar un formulario no modal cuando se muestra un formulario modal.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerFriends' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerFriends' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapMsg' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleMapData' in 'modHandleData'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'UpdateCamera' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'GetPlayerVital' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'GetPlayerVital' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'GetPlayerMaxVital' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'GetPlayerMaxVital' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'GetPlayerVital' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '6': Desbordamiento.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleProjectile' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleHighlightItem' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemNum' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerInvItemValue' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateSpell' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerHP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerMP' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerX' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerY' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'SetPlayerDir' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandlePlayerXY' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'LoadTilesets' in 'modGraphics'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleMapDone' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearPlayer' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleClassesData' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'ClearResource' in 'modDatabase'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleUpdateResource' in 'modHandleData'.
+Run-time error '9': El subíndice está fuera del intervalo.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530516': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530516': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530516': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530516': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530516': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530518': Error de Automatización.
+
+The following error occured at 'InitDX8' in 'modGraphics'.
+Run-time error '-2005530516': Error de Automatización.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+

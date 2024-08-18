@@ -1,0 +1,5 @@
+Línea 20: la propiedad Icon de frmEditor_Spell tenía una referencia a archivo no válida.
+Línea 486: la propiedad ItemData de cmdCombatType tenía una referencia a archivo no válida.
+Línea 488: la propiedad List de cmdCombatType tenía una referencia a archivo no válida.
+Línea 813: la propiedad ItemData de cmbType tenía una referencia a archivo no válida.
+Línea 815: la propiedad List de cmbType tenía una referencia a archivo no válida.

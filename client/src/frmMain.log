@@ -1,0 +1,2 @@
+Línea 477: la clase MSWinsockLib.Winsock del control Socket no era una clase de control cargada.
+Línea 590: la clase RichTextLib.RichTextBox del control txteditorletrero no era una clase de control cargada.

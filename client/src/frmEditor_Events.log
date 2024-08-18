@@ -1,0 +1,2 @@
+Línea 4043: la clase MSComctlLib.TabStrip del control tabCommands no era una clase de control cargada.
+Línea 4076: la clase MSComctlLib.TabStrip del control tabPages no era una clase de control cargada.

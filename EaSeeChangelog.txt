@@ -1,0 +1,299 @@
+(18/07/2016) EaSee MMORPG 1.2 No 6Dragon6 Edition :P
+
+Agregados:
+
+[-]Modo SingerPlayer/MultiPlayer.
+[-]Se añadió el modo FullScreen y el modo windowed
+[-]Cambio de el menú principal.
+[-]Pregunta secreta para recuperar cuenta.
+[-]Mejora de seguridad opcional para que necesites un cliente en especifico para conectarse al servidor.
+[-]Mensajes "Contraseña incorrecta","El usuario no existe","El usuario o la contraseña son muy cortos" fueron traducidos. 
+[-]Consola dentro del server para el modo SinglePlayer.
+[-]La opción de "Recordar contraseña" es remplazada por "Recordar usuario" por motivos de seguridad. 
+[-]Se cambio la GUI del panel de administración.
+[-]El comando /Guild help deja de funcionar,ahora los comandos se muestran cuando marcas /Guild
+[-]Los mensajes cuando colocas /Guild se tradujeron al español unicamente.
+[-]El comando /Guild ya no abre la ventana donde muestra el nombre,tag,mensaje del dia y los miembros,esa ventana unicamente se abre desde el botón de clan.
+[-]Los mensajes nombre,tag,mensaje del dia,miembros de la ventana numero 7 fueron traducidos.
+[-]El botón Config alias "El marginado de la GUI",fue deshabilitado y sera borrado permanentemente por su falta de uso.
+[-]Ahora tocando el botón de Guilds te abre una ventana donde podes crear tu clan
+[-]Al dueño del clan al tocar ese botón una ves creado el clan,le abre las estadísticas y el panel de administración de la guild
+[-]Se implemento el cambio de lenguaje a través del login
+[-]Se implemento el sistema de encriptamiento para gráficos en Easee Engine
+[-]La variable "Trad" para traducir el login deja de ser utilizada y se simplifica el código.
+[-]Se agrego las opciones de pantalla en el menú de SinglePlayer.
+[-]Ahora para ejecutar el Cliente.exe es OBLIGATORIO ejecutar el launcher para instalar las librerías necesarias.
+[-]Colocación de un nuevo programa "Installer LIB" el cual instala las LIB del engine fácilmente.
+[-]Cualquier comando,tenga mayúsculas o minúsculas es reconocido igualmente,ya sea: "/fps,/Fps,/FPS,/FpS"
+[-]Se pueden crear comandos en el servidor sin necesidad de modificar el cliente.
+[-]Ahora NO se puede clickear sobre el botón "Aceptar" si el servidor se encuentra apagado.
+[-]Se agrego el botón de "Configuración" y el status del servidor a la zona del registro.
+[-]El botón ESCAPE,ademas de mostrar un nuevo menú,cierra la mayoría ventanas que se encuentran abiertas en el engine.
+
+Fixes:
+
+[-] La ventana transparente presentaba problemas al hacer doble click.
+[-] Los botones del menú podían ser tocados mientras la animación del intro andaba.
+[-] El botón "Creditos" no tenia la misma programación que los demás botones lo cual traía problemas.
+[-] Se quito el INET y su código fuera de uso del servidor(No se utilizaba y el servidor se vuelve mas fluido).
+[-] El mensaje "Crear Cuenta" Aunque no se encuentre en modo multiplayer funcionaba igual.
+[-] En la modificación de esta versión de la GUI,el tamaño de la misma no podía ser cambiado.
+[-] El SubIndice esta fuera de intervalo,cuando se pasaba o movía el mouse sobre un item del inventario.
+[-] Las letras V,N,C para abrir el inventario dejan de funcionar y el inventario se abre con I.
+[-] El botón "El botón de ¿No tienes cuenta?" no se encontraba correctamente funcionable.
+[-] El botón "abortar mision" no andaba,Se realizo la re-programación correspondiente.
+[-] Se movió la ventana numero 7 la cual era las estadisticas del clan,ya que era tapada por los iconos del menu.
+[-] El usuario no se guardaba aunque estuviera seleccionado.
+[-] Las animaciones de los botones de la GUI seguían andando.
+[-] Al presionar ENTER sobre el campo del usuario en modo singleplayer crasheaba el cliente.
+[-] El chat presentaba problemas en el código al ejecutarse la pantalla completa.
+[-] El motor de SinglePlayer presentaba problemas al estar creando el personaje.
+[-] Se optimizo el código para ingresar al juego singleplayer.
+[-] Se realizo una búsqueda del error sobre los hechizos,en la búsqueda no se encontró bug y por arte de magia los hechizos comenzaron a funcionar,wtf...
+[-] La tienda causaba un error cuando el costo del item era 0.
+[-] Las resolución no se adaptaba en tiempo real y se tenia que reiniciar el cliente para que se efectuara el cambio.
+[-] El objeto "txtText" se corría hacia el lado izquierdo al tocar sobre los botones.
+[-] Los bordes de el juego no se mostraban si se encontraba en la resolución "Windowed".
+[-] El SEasee era incompatible completamente con el viejo sistema de carga de texturas de Easee Engine.
+[-] Se reparo graves errores que se encontraban en la programación de SEasee lanzando así la SEasee 0.1.3 .
+[-] La bandera para efectuar el cambio de lenguaje no funcionaba y siempre al reiniciar el programa se colocaba en ingles.
+[-] El Mini-Mapa es borrado permanentemente del engine. Por su gran cantidad de bugs.
+[-] Se realizo las traducciones y las programaciones necesarias para la traducción total del menú.
+[-] La ventana de creación de clanes no se cerraba correctamente.
+[-] La ventana de creación de clanes al mover la los elementos como textos o textbox no se movían. 
+
+********************************
+
+(24/12/2015) EaSee MMORPG 1.1 International Love Edition
+
+Fixes:
+
+- Arreglos menores en el funcionamiento de la intro.						(Santa Claus)
+
+Agregados:
+
+- Sistema de traducción por archivos (incluye texto e iconos en inglés y español).		(Santa Claus)
+- Nuevo icono para cliente y servidor.								(Santa Claus)
+- Archivo para el icono de "CONFIG" del menú principal(client\data files\graphics\gui\buttons).	(Santa Claus)
+
+********************************
+
+(01/03/2015) EaSee MMORPG 1.0 Beta
+
+Fixes:
+
+- Incluidas Librerias AE. 									(IkiCapitan)
+- Reacomodado Sprite Menu Seleccion Personaje. 							(IkiCapitan)
+- Aumetada Velocidad Frame Ataque 5° Animacion. 						(IkiCapitan)
+- Reestablecido a 1 sola IP funcional configurable. 						(IkiCapitan)
+- Descripcion precio de items reacomodado. 							(IkiCapitan)
+- Solucionado Consumo de MP y Objetivo en Hechizos Confusion, Paralisis y Veneno. 		(IkiCapitan)
+- Reparados efectos Hechizos Buff/Debuff (acumulacion, descuento, etc).
+
+
+Agregados:
+
+- Agregado BGM25. 										(IkiCapitan)
+- Agregadas Teclas de Movimiento WASD Simultaneas con Direccionales. 				(IkiCapitan)
+- Nombre de Clase en el Menu de Personaje 							(IkiCapitan)
+
+Gracias a ustedes por prestar atencion al niño solitario y loco que desarrolló conjuntamente este Engine.
+
+********************************
+
+(16/02/2015) EaSee MMORPG Alpha 9
+
+Fixes:
+
+- Incluido en "extras" librerías de DirectX. 							(IkiCapitan)
+- Transparencia Sprites. 									(Berserker)
+- Evoluciones. 											(IkiCapitan)
+- Interaccion con Eventos. 									(IkiCapitan)
+- Ataque a NPC y Jugadores. 									(IkiCapitan)
+- Optimizado Abismalmente Tiempo Respuesta. 							(IkiCapitan)
+
+Agregados:
+
+- Descripciones al posar Mouse ToolTipText. 							(IkiCapitan)
+- Memoriza Múltiples Opciones Escenciales del Servidor. 					(IkiCapitan)
+- Atacar Cubos Tecla Z con Funcion Dedicada. 							(IkiCapitan)
+- Atacar Cubos mediante daño del Personaje -NO PICACUBOS-. 					(IkiCapitan)
+
+********************************
+
+(01/01/2015) EaSee MMORPG Alpha 8
+
+Fixes:
+
+- Incluido dx8vb.dll en descarga. 								(IkiCapitan)
+- Incluidas librerias en descarga. 								(IkiCapitan)
+- Paperdoll 5° Animacion. 									(IkiCapitan - Ruso)
+- Teclas V y N 											(MateoD)
+- Mejora Traduccion 										(MateoD)
+- Posicion Slots Equipamiento 									(MateoD)
+- Boton Guild 											(Canido)
+- Se Suprimieron Agregados sin Calificar de la 0.7.5 en adelante.
+
+Agregados:
+
+- MiniTutoriales en el Mapa de Inicio. 								(IkiCapitan)
+- Reincorporamos los 23 BGM (+1 Nuevo) 								(IkiCapitan)
+- 25 Animaciones. 										(dracotauro)
+- 54 Sprites. 											(dracotauro - Berserker)
+- Rediseño Intro, Mapa, Items, Tiendas, Eventos Exhibicion 					(IkicApitan)
+- Paperdoll Tester Machine 									(iTom)
+- 28 Resources 											(Canido - IkiCapitan)
+- 39 Tilesets 											(Augusto - dracotauro - Sikko)
+- 1694 Items 											(Skit - Berseerker - dracotauro - IkiCapitan)
+
+********************************
+
+(10/07/2014) EaSee MMORPG Alpha7
+
+Fixes:
+
+- Menús Teclas C y V corregidos. 								(6Dragon6)
+- Solucionado atacar sin armas. 								(6Dragon6)
+- Solucionado aumentar máximo de clases. 							(Canido)
+- SFX Botones Base. 										(Canido)
+- Tabulación de municiones en diversos tamaños corregido. 					(Canido)
+- Solucionado la minimizacion del server 							(canido)
+
+
+Agregados:
+
+- Sistema Evolución de Clases.									(By IkiCapitan)
+- EaSee Resources 0.3.8 FIX 2 									(By Nexus Team)
+- Rediseño Gráfico Menú Cliente. 								(By MateoD y Augusto)
+- Animacion de ataque, opcional 								(canido)
+
+********************************
+
+(10/06/2014) EaSee MMORPG Alpha6
+
+Fixes:
+
+- Solucionado error de los 22 Hechizos. 							(By IkiCapitan)
+- Solucionado Bug ScreenShots. 									(By FlaskBreaker)
+- Solucionado Buff/DeBuff Sprites y a si mismo. 						(By IkiCapitan)
+- Solucionado Bug Dropeo de Items que activaba Hotbar. 						(By Canido)
+- Solucionado Bug Soltar Items Atados. 								(By Canido)
+- Solucionado Bug Multiconexión (No AutoKick) y Bug Botón Kick del Cliente 			(By IkiCapitan)
+
+Agregados:
+
+- Presentación DirectX con BGM personalizables.							(By IkiCapitan)
+- Menú renderizado en DirectX y efectos. 							(By Jeshuem)
+- BGM22 y 23. 											(By IkiCapitan)
+- Función Tecla F12 para Pantallazos/ScreenShots. 						(By FlaskBreaker)
+- Efectos Globales de Color DirectX en Buff/Debuff Veneno o Paralisis. 				(By IkiCapitan)
+- Grillas opcionales para el Editor de Mapas. 							(By Canido)
+- Objetos y Hechizos Iniciales Configurables. 							(By IkiCapitan)
+- Sistema de Municiones. 									(By Canido)
+- Dinamismo y Funcionalidades de la HotBar: Equipar/Desequipar y AutoSupresión de Consumibles. 	(By Canido).
+- Sistema de Facciones. 									(By IkiCapitan)
+- EaSee Updater. 										(By 6Dragon6)
+- Animación mouse sobre objetos en el inventario. 						(By Canido)
+- Rediseño Inventario y Equipamiento en el Cliente. 						(By Benjiro / IkiCapitan)
+- Comparación de Item Inventario/Equipado. 							(By Canido)
+- Dropear Items Arrojándolos en Mapa. 								(By Canido)
+- Equipar Items con Drag. 									(By Canido)
+- Sprite Iki. 											(By Benjiro)
+- EaSee Resources. 										(By Nexus Team)
+- Menu GUI Modificado. 										(By MateoD / IkiCapitan)
+- Añadidos Comandos para Eventos. 								(By Canido)
+
+********************************
+
+(10/05/2014) EaSee MMORPG Alpha5
+
+Fixes:
+
+- Sincronización de Sistemas de Velocidades de Personaje.
+- Respuestas de la tecla CTRL. 
+- Suprimidos Navegadores Internos.
+- Error Automation DX9.
+- Suprimida Sangre al Inflingir 0 de Daño en PvP.
+
+Agregados:
+
+- Sistema de Clima Aleatorio y Clima Personalizado por Tiempo.
+- Sistema de Libros.
+- Sistema de Pérdida de Items al Morir con Porcentaje Configurable.
+- Atributo Hechizos Confusion con Duracion Modificable (Diferencia de "Aturdir": Altera ocasionalmente el movimiento)
+- Atributo Hechizos Paralisis con Duración Modificable.
+- Atributo Hechizos Veneno con Duración y Daño Modificable.
+- Atributo Hechizos Buff/Debuff Velocidad Caminar y Correr con Duración, Adición Modificable y Anticheat.
+- Atributo Hechizos Buff Invisibilidad con Duración Modificable y Anticheat.
+- Atributo Hechizos Buff/Debuff Fuerza con Duración y Valor Modificable.
+- Atributo Hechizos Buff/Debuff Destreza con Duración y Valor Modificable.
+- Atributo Hechizos Buff/Debuff Agilidad con Duración y Valor Modificable.
+- Atributo Hechizos Buff/Debuff Intelingencia con Duración y Valor Modificable.
+- Atributo Hechizos Buff/Debuff Voluntad con Duración y Valor Modificable.
+- Atributo Hechizos Sprite con Duración y Valor Modificable.
+- Atributo Hechizos Transportar con Valores Modificables.
+
+- BGM21.
+
+********************************
+
+(10/04/2014) EaSee MMORPG Alpha4
+
+Fixes:
+
+- Bloqueo Chat en Paneles de Edición y al Arrojar Items.
+- Bloqueo Tecla Editores E al abrir Editores.
+- Supresión de doble movimietno WASD.
+- Reemplazado Componente IE por Mozilla.
+- Establecido limite de lanzamiento de proyectiles por jugador a 1950.
+- Bug de Party "parcheado" (se suprimio el texto que aparece al lootear).
+- Recolectar Recursos con Atributos "Sin Herramientas".
+- Número de Tiles visibles en Animación mediante Editor de Eventos.
+- Traducidos Msgbox del Cliente.
+
+
+Añadidos:
+
+- Botón "Misiones" en la Interfaz.
+- Atributo Ocultar Añadido a Clases.
+- Sistema de Cubos.
+- Recursos: BGM20, Tiles1 y Items 1 a 12
+
+********************************
+
+(10/03/2014) EaSee MMORPG Alpha3
+
+- Panel de Configuración de Resoluciones (Cliente)
+- Recursos BGM19 y SFX50 al SFX56
+- Sistema de Muerte Definitiva (Borrar Cuenta al Morir)
+- Navegador Interno (Cliente-Server)
+- Sistema de Edición de Clases y Spawn (Server)
+- Velocidad Personaje Editable por Clases (Server)
+- Gestor de Climas Parciales o Totales (Server)
+- Añadidos Parámetros de Niebla al Gestor de Climas (Server)
+
+Fixes:
+
+- Sistema de Eventos: SetMoveRoute Corregido
+- Eventos Traducidos al Español.
+
+********************************
+
+(22/01/2014) EaSee MMORPG Alpha2 Fix1
+
+·Fixes:
+-Las imágenes de los botones del menú principal se pueden cambiar.
+
+********************************
+
+(21/01/2014) EaSee MMORPG Alpha2
+
+·Fixes:
+-Revisión ortográfica.
+-Las imágenes de créditos e imagen de menú principal se pueden cambiar.
+
+********************************
+
+(26/12/2014) EaSee MMORPG XMAS Alpha
+
+********************************

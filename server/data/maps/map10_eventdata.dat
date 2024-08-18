@@ -1,0 +1,1086 @@
+[Events]
+EventCount=1
+[Event1]
+Global=0
+x=12
+y=26
+PageCount=1
+Name=
+[Event1Page1]
+chkVariable=0
+VariableIndex=0
+VariableCondition=0
+VariableCompare=0
+chkSwitch=0
+SwitchIndex=0
+SwitchCompare=0
+chkHasItem=0
+HasItemIndex=0
+HasItemAmount=0
+chkSelfSwitch=0
+SelfSwitchIndex=0
+SelfSwitchCompare=0
+GraphicType=0
+Graphic=0
+GraphicX=0
+GraphicY=0
+GraphicX2=0
+GraphicY2=0
+MoveType=0
+MoveSpeed=0
+MoveFreq=0
+IgnoreMoveRoute=0
+RepeatMoveRoute=0
+MoveRouteCount=0
+WalkAnim=0
+DirFix=0
+WalkThrough=0
+ShowName=0
+Trigger=0
+CommandListCount=0
+Position=0
+CommandList1CommandCount=1
+CommandList1ParentList=0
+CommandList1Command1Index=2
+CommandList1Command1Text1=Esta es la arena para PvP... con... claro... arena... mucha...
+CommandList1Command1Data1=0
+CommandList1Command1Data2=0
+CommandList1Command1Data3=0
+CommandList1Command1Data4=0
+CommandList1Command1Data5=0
+CommandList1Command1Data6=0
+CommandList1Command1ConditionalBranchCommandList=0
+CommandList1Command1ConditionalBranchCondition=0
+CommandList1Command1ConditionalBranchData1=0
+CommandList1Command1ConditionalBranchData2=0
+CommandList1Command1ConditionalBranchData3=0
+CommandList1Command1ConditionalBranchElseCommandList=0
+CommandList1Command1MoveRouteCount=0
+[Event2]
+Global=0
+x=12
+y=26
+PageCount=1
+[Event2Page1]
+chkVariable=0
+VariableIndex=0
+VariableCondition=0
+VariableCompare=0
+chkSwitch=0
+SwitchIndex=0
+SwitchCompare=0
+chkHasItem=0
+HasItemIndex=0
+HasItemAmount=0
+chkSelfSwitch=0
+SelfSwitchIndex=0
+SelfSwitchCompare=0
+GraphicType=0
+Graphic=0
+GraphicX=0
+GraphicY=0
+GraphicX2=0
+GraphicY2=0
+MoveType=0
+MoveSpeed=0
+MoveFreq=0
+IgnoreMoveRoute=0
+RepeatMoveRoute=0
+MoveRouteCount=0
+WalkAnim=0
+DirFix=0
+WalkThrough=0
+ShowName=0
+Trigger=0
+CommandListCount=0
+Position=0
+CommandList1CommandCount=1
+CommandList1ParentList=0
+CommandList1Command1Index=2
+CommandList1Command1Text1=Estos arboles son recursos talables... asi como ves tambien los peces en la orilla puedes pescar. Pero tanto para los peces como para estos arboles necesitas la herramienta correspondiente... en este caso un Hacha.
+CommandList1Command1Data1=0
+CommandList1Command1Data2=0
+CommandList1Command1Data3=0
+CommandList1Command1Data4=0
+CommandList1Command1Data5=0
+CommandList1Command1Data6=0
+CommandList1Command1ConditionalBranchCommandList=0
+CommandList1Command1ConditionalBranchCondition=0
+CommandList1Command1ConditionalBranchData1=0
+CommandList1Command1ConditionalBranchData2=0
+CommandList1Command1ConditionalBranchData3=0
+CommandList1Command1ConditionalBranchElseCommandList=0
+CommandList1Command1MoveRouteCount=0
+CommandList2CommandCount=1
+CommandList2ParentList=1
+CommandList2Command1Index=2
+CommandList2Command1Text1=Con la Tecla CTRL Podras Atacar a los NPC Enemigos, asi como tambien interactuar con los NPC Amistosos.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+CommandList2Command1Data1=0
+CommandList2Command1Data2=0
+CommandList2Command1Data3=0
+CommandList2Command1Data4=0
+CommandList2Command1Data5=0
+CommandList2Command1Data6=0
+CommandList2Command1ConditionalBranchCommandList=0
+CommandList2Command1ConditionalBranchCondition=0
+CommandList2Command1ConditionalBranchData1=0
+CommandList2Command1ConditionalBranchData2=0
+CommandList2Command1ConditionalBranchData3=0
+CommandList2Command1ConditionalBranchElseCommandList=0
+CommandList2Command1MoveRouteCount=0
+CommandList3CommandCount=1
+CommandList3ParentList=1
+CommandList3Command1Index=2
+CommandList3Command1Text1=Para Editar el Juego debes tener un personaje asignado como Administrador y presionar la tecla Insert o Inst (sobre las flechas direccionales se encuentra).
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+CommandList3Command1Data1=0
+CommandList3Command1Data2=0
+CommandList3Command1Data3=0
+CommandList3Command1Data4=0
+CommandList3Command1Data5=0
+CommandList3Command1Data6=0
+CommandList3Command1ConditionalBranchCommandList=0
+CommandList3Command1ConditionalBranchCondition=0
+CommandList3Command1ConditionalBranchData1=0
+CommandList3Command1ConditionalBranchData2=0
+CommandList3Command1ConditionalBranchData3=0
+CommandList3Command1ConditionalBranchElseCommandList=0
+CommandList3Command1MoveRouteCount=0
+CommandList4CommandCount=1
+CommandList4ParentList=1
+CommandList4Command1Index=2
+CommandList4Command1Text1=Si quieres agregar mas graficos de mapas, espadas y demas a los editores puedes hacerlo desde la carpeta del cliente, GFX o Graficos. Alli debes adaptarlas a sus formatos correspondientes.
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+CommandList4Command1Data1=0
+CommandList4Command1Data2=0
+CommandList4Command1Data3=0
+CommandList4Command1Data4=0
+CommandList4Command1Data5=0
+CommandList4Command1Data6=0
+CommandList4Command1ConditionalBranchCommandList=0
+CommandList4Command1ConditionalBranchCondition=0
+CommandList4Command1ConditionalBranchData1=0
+CommandList4Command1ConditionalBranchData2=0
+CommandList4Command1ConditionalBranchData3=0
+CommandList4Command1ConditionalBranchElseCommandList=0
+CommandList4Command1MoveRouteCount=0
+CommandList5CommandCount=1
+CommandList5ParentList=1
+CommandList5Command1Index=2
+CommandList5Command1Text1=Otros NPC Amistosos te ayudaran con el resto... sino puedes visitar los Tutoriales de www.easee.es
+CommandList5Command1Data1=0
+CommandList5Command1Data2=0
+CommandList5Command1Data3=0
+CommandList5Command1Data4=0
+CommandList5Command1Data5=0
+CommandList5Command1Data6=0
+CommandList5Command1ConditionalBranchCommandList=0
+CommandList5Command1ConditionalBranchCondition=0
+CommandList5Command1ConditionalBranchData1=0
+CommandList5Command1ConditionalBranchData2=0
+CommandList5Command1ConditionalBranchData3=0
+CommandList5Command1ConditionalBranchElseCommandList=0
+CommandList5Command1MoveRouteCount=0
+
+Hay paginas que ofrecen estos recursos gratuitos, y tambien puedes encontrar mas en www.easee.es
+
+Si tu personaje tiene su nombre en color amarillo entonces eres administrador.
+
+Si eres el propietario del juego y no tienes personaje Administrador puedes crearte un personaje nuevo y otorgarle privilegios dandole click derecho en la lista de jugadores del servidor.
+
+Con las flechas direccionales mueves el personaje.
+
+Luego tienes las tipicas teclas de acceso rapido a los menu, asi como equipamiento o hechizos que definas.
+
+Con Impr Pant Pet Sis tomamos pantallazo (screenshoot) del juego.
+[Event3]
+Global=0
+x=12
+y=26
+PageCount=1
+[Event3Page1]
+chkVariable=0
+VariableIndex=0
+VariableCondition=0
+VariableCompare=0
+chkSwitch=0
+SwitchIndex=0
+SwitchCompare=0
+chkHasItem=0
+HasItemIndex=0
+HasItemAmount=0
+chkSelfSwitch=0
+SelfSwitchIndex=0
+SelfSwitchCompare=0
+GraphicType=0
+Graphic=0
+GraphicX=0
+GraphicY=0
+GraphicX2=0
+GraphicY2=0
+MoveType=0
+MoveSpeed=0
+MoveFreq=0
+IgnoreMoveRoute=0
+RepeatMoveRoute=0
+MoveRouteCount=0
+WalkAnim=0
+DirFix=0
+WalkThrough=0
+ShowName=0
+Trigger=0
+CommandListCount=0
+Position=0
+CommandList1CommandCount=1
+CommandList1ParentList=0
+CommandList1Command1Index=2
+CommandList1Command1Text1=Esa mascota que ves ahi es un NPC... se parece mucho a los eventos solo que tiene un comportamiento automatico que tu le asignas, asi como vida, defensa y puntos de ataque.
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+CommandList1Command1Data1=0
+CommandList1Command1Data2=0
+CommandList1Command1Data3=0
+CommandList1Command1Data4=0
+CommandList1Command1Data5=0
+CommandList1Command1Data6=0
+CommandList1Command1ConditionalBranchCommandList=0
+CommandList1Command1ConditionalBranchCondition=0
+CommandList1Command1ConditionalBranchData1=0
+CommandList1Command1ConditionalBranchData2=0
+CommandList1Command1ConditionalBranchData3=0
+CommandList1Command1ConditionalBranchElseCommandList=0
+CommandList1Command1MoveRouteCount=0
+
+Inclusive puedes copiar un evento con CTRL+C y luego pegarlo con CTRL+V en otra parte del mapa.
+
+Es genial cierto?
+[Event4]
+Name=Abuelito dime Tu
+Global=0
+x=22
+y=19
+PageCount=1
+[Event4Page1]
+chkVariable=0
+VariableIndex=0
+VariableCondition=0
+VariableCompare=0
+chkSwitch=0
+SwitchIndex=0
+SwitchCompare=0
+chkHasItem=0
+HasItemIndex=0
+HasItemAmount=0
+chkSelfSwitch=0
+SelfSwitchIndex=0
+SelfSwitchCompare=0
+GraphicType=1
+Graphic=21
+GraphicX=0
+GraphicY=0
+GraphicX2=0
+GraphicY2=0
+MoveType=0
+MoveSpeed=0
+MoveFreq=0
+IgnoreMoveRoute=0
+RepeatMoveRoute=0
+MoveRouteCount=0
+WalkAnim=0
+DirFix=0
+WalkThrough=0
+ShowName=0
+Trigger=0
+CommandListCount=1
+Position=0
+CommandList1CommandCount=1
+CommandList1ParentList=0
+CommandList1Command1Index=2
+CommandList1Command1Text1=Estos arboles son recursos talables... asi como ves tambien los peces en la orilla puedes pescar. Pero tanto para los peces como para estos arboles necesitas la herramienta correspondiente... en este caso un Hacha. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada. 
+CommandList1Command1Data1=0
+CommandList1Command1Data2=0
+CommandList1Command1Data3=0
+CommandList1Command1Data4=0
+CommandList1Command1Data5=0
+CommandList1Command1Data6=0
+CommandList1Command1ConditionalBranchCommandList=0
+CommandList1Command1ConditionalBranchCondition=0
+CommandList1Command1ConditionalBranchData1=0
+CommandList1Command1ConditionalBranchData2=0
+CommandList1Command1ConditionalBranchData3=0
+CommandList1Command1ConditionalBranchElseCommandList=0
+CommandList1Command1MoveRouteCount=0
+
+En este caso es un NPC neutral, y como lo indica su nombre no sirve para nada.
+[Event5]
+Global=0
+x=12
+y=26
+PageCount=1
+[Event5Page1]
+chkVariable=0
+VariableIndex=0
+VariableCondition=0
+VariableCompare=0
+chkSwitch=0
+SwitchIndex=0
+SwitchCompare=0
+chkHasItem=0
+HasItemIndex=0
+HasItemAmount=0
+chkSelfSwitch=0
+SelfSwitchIndex=0
+SelfSwitchCompare=0
+GraphicType=0
+Graphic=0
+GraphicX=0
+GraphicY=0
+GraphicX2=0
+GraphicY2=0
+MoveType=0
+MoveSpeed=0
+MoveFreq=0
+IgnoreMoveRoute=0
+RepeatMoveRoute=0
+MoveRouteCount=0
+WalkAnim=0
+DirFix=0
+WalkThrough=0
+ShowName=0
+Trigger=0
+CommandListCount=0
+Position=0
+CommandList1CommandCount=1
+CommandList1ParentList=0
+CommandList1Command1Index=2
+CommandList1Command1Text1=Eeee uachin.... ke te kreia ke ibamo a ser todo finoli en el juego?...
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+CommandList1Command1Data1=0
+CommandList1Command1Data2=0
+CommandList1Command1Data3=0
+CommandList1Command1Data4=0
+CommandList1Command1Data5=0
+CommandList1Command1Data6=0
+CommandList1Command1ConditionalBranchCommandList=0
+CommandList1Command1ConditionalBranchCondition=0
+CommandList1Command1ConditionalBranchData1=0
+CommandList1Command1ConditionalBranchData2=0
+CommandList1Command1ConditionalBranchData3=0
+CommandList1Command1ConditionalBranchElseCommandList=0
+CommandList1Command1MoveRouteCount=0
+
+Puedes crear tus propias Tiendas desde el Editor de Tiendas. Si al Editar una Tienda recibes un Error como "Subindice fuera de Intervalo", es porque te ha faltado completar uno de los datos del Item a Ingresar (Actualizar).
+[Event6]
+Name=Abuelito dime Tu
+Global=0
+x=22
+y=19
+PageCount=1
+[Event6Page1]
+chkVariable=0
+VariableIndex=0
+VariableCondition=0
+VariableCompare=0
+chkSwitch=0
+SwitchIndex=0
+SwitchCompare=0
+chkHasItem=0
+HasItemIndex=0
+HasItemAmount=0
+chkSelfSwitch=0
+SelfSwitchIndex=0
+SelfSwitchCompare=0
+GraphicType=1
+Graphic=21
+GraphicX=0
+GraphicY=0
+GraphicX2=0
+GraphicY2=0
+MoveType=0
+MoveSpeed=0
+MoveFreq=0
+IgnoreMoveRoute=0
+RepeatMoveRoute=0
+MoveRouteCount=0
+WalkAnim=0
+DirFix=0
+WalkThrough=0
+ShowName=0
+Trigger=0
+CommandListCount=1
+Position=0
+CommandList1CommandCount=1
+CommandList1ParentList=0
+CommandList1Command1Index=2
+CommandList1Command1Text1=Estos arboles son recursos talables... asi como ves tambien los peces en la orilla puedes pescar. Pero tanto para los peces como para estos arboles necesitas la herramienta correspondiente... en este caso un Hacha.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+CommandList1Command1Data1=0
+CommandList1Command1Data2=0
+CommandList1Command1Data3=0
+CommandList1Command1Data4=0
+CommandList1Command1Data5=0
+CommandList1Command1Data6=0
+CommandList1Command1ConditionalBranchCommandList=0
+CommandList1Command1ConditionalBranchCondition=0
+CommandList1Command1ConditionalBranchData1=0
+CommandList1Command1ConditionalBranchData2=0
+CommandList1Command1ConditionalBranchData3=0
+CommandList1Command1ConditionalBranchElseCommandList=0
+CommandList1Command1MoveRouteCount=0
+
+Bueno pibe la posta es que ahi tenes el Banco, donde podes meter y sacar objetos... si, todos los cachivaches que pones podes retirarlos despues.
+
+Podes crear objetos de cualquier tipo en el editor de objetos, y podes crear Bancos con el Editor de Mapas...
+
+Ahora tirate una moneda amio que yo te ayude, no te ponga la gorra waaacho.
+
+No??? Aguanta lo tarro.
+[Event7]
+Global=0
+x=12
+y=26
+PageCount=1
+[Event7Page1]
+chkVariable=0
+VariableIndex=0
+VariableCondition=0
+VariableCompare=0
+chkSwitch=0
+SwitchIndex=0
+SwitchCompare=0
+chkHasItem=0
+HasItemIndex=0
+HasItemAmount=0
+chkSelfSwitch=0
+SelfSwitchIndex=0
+SelfSwitchCompare=0
+GraphicType=0
+Graphic=0
+GraphicX=0
+GraphicY=0
+GraphicX2=0
+GraphicY2=0
+MoveType=0
+MoveSpeed=0
+MoveFreq=0
+IgnoreMoveRoute=0
+RepeatMoveRoute=0
+MoveRouteCount=0
+WalkAnim=0
+DirFix=0
+WalkThrough=0
+ShowName=0
+Trigger=0
+CommandListCount=0
+Position=0
+CommandList1CommandCount=1
+CommandList1ParentList=0
+CommandList1Command1Index=2
+CommandList1Command1Text1=Estos arboles son recursos talables... asi como ves tambien los peces en la orilla puedes pescar. Pero tanto para los peces como para estos arboles necesitas la herramienta correspondiente... en este caso un Hacha.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.
+CommandList1Command1Data1=0
+CommandList1Command1Data2=0
+CommandList1Command1Data3=0
+CommandList1Command1Data4=0
+CommandList1Command1Data5=0
+CommandList1Command1Data6=0
+CommandList1Command1ConditionalBranchCommandList=0
+CommandList1Command1ConditionalBranchCondition=0
+CommandList1Command1ConditionalBranchData1=0
+CommandList1Command1ConditionalBranchData2=0
+CommandList1Command1ConditionalBranchData3=0
+CommandList1Command1ConditionalBranchElseCommandList=0
+CommandList1Command1MoveRouteCount=0
+
+Puedes crear tus recursos y configurarlos como te plazca desde el Editor de Recursos...
+
+Yo me estoy dejando crecer la barba, al menos parecere Dumbledore.

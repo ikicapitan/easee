@@ -1,0 +1,5 @@
+("JOINGAME")
+#@#GetVar-PutVar
+DeclareVariable(IKI}{GetVar['/prueba.ini','prueba','prueba'])
+PlayerMsg(index}{'Hola:' &IKI& 'tenemos registrada tu IP ['&GETPLAYERIP&'] asi que no te hagas el vivo'}{14)
+RemoveACHIEVEMENT(index}{1)
